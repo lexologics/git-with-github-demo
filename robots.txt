@@ -8,5 +8,9 @@ Disallow:
 
 # some line
 
+<<<<<<< HEAD
 # add new line
 
+=======
+# again some new line
+>>>>>>> 56f069b3838b248d7d32aecf7fd97d9ed4ccda37
